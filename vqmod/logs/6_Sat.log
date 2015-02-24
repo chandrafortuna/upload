@@ -1,0 +1,75 @@
+---------- Date: 2015-02-21 13:29:57 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=account/address/update&amp;address_id=1
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/autocompletecityerick.xml
+   id        : Autocomplete_City
+   version   : For OpenCart 1.5.x
+   vqmver    : 1
+   author    : crist_erick@live.com
+
+File Name    : catalog/view/theme/*/template/account/address_form.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <input type="text" name="city" value="" class="large-field" />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-21 13:30:16 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=account/address/update&amp;address_id=1
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/autocompletecityerick.xml
+   id        : Autocomplete_City
+   version   : For OpenCart 1.5.x
+   vqmver    : 1
+   author    : crist_erick@live.com
+
+File Name    : catalog/view/theme/*/template/account/address_form.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <input type="text" name="city" value="" class="large-field" />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-21 13:30:41 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=account/address/insert
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/autocompletecityerick.xml
+   id        : Autocomplete_City
+   version   : For OpenCart 1.5.x
+   vqmver    : 1
+   author    : crist_erick@live.com
+
+File Name    : catalog/view/theme/*/template/account/address_form.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <input type="text" name="city" value="" class="large-field" />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-21 13:46:38 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=account/address/insert
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/autocompletecityerick.xml
+   id        : Autocomplete_City
+   version   : For OpenCart 1.5.x
+   vqmver    : 1
+   author    : crist_erick@live.com
+
+File Name    : catalog/view/theme/*/template/account/address_form.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <input type="text" name="city" value="" class="large-field" />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-21 13:47:45 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=account/address/update&amp;address_id=1
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/autocompletecityerick.xml
+   id        : Autocomplete_City
+   version   : For OpenCart 1.5.x
+   vqmver    : 1
+   author    : crist_erick@live.com
+
+File Name    : catalog/view/theme/*/template/account/address_form.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <input type="text" name="city" value="" class="large-field" />
+
+----------------------------------------------------------------------
+
+

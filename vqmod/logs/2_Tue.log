@@ -1,0 +1,56 @@
+---------- Date: 2015-02-24 03:25:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=product/category&amp;path=33
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/Remove-Wishlist-Link-From-Header.xml
+   id        : Remove Wishlist Link From Header
+   version   : 1.0
+   vqmver    : 2.5.0
+   author    : keyz
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <div id="welcome"><?php if (!$logged) { ?><?php echo $text_welcome; ?><?php } else { ?><?php echo $text_logged; ?><?php } ?></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-24 03:27:45 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=product/category&amp;path=33
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/Remove-Wishlist-Link-From-Header.xml
+   id        : Remove Wishlist Link From Header
+   version   : 1.0
+   vqmver    : 2.5.0
+   author    : keyz
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <div id="welcome"><?php if (!$logged) { ?><?php echo $text_welcome; ?><?php } else { ?><?php echo $text_logged; ?><?php } ?></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-24 03:32:17 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=information/information&amp;information_id=6
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/Remove-Wishlist-Link-From-Header.xml
+   id        : Remove Wishlist Link From Header
+   version   : 1.0
+   vqmver    : 2.5.0
+   author    : keyz
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <div id="welcome"><?php if (!$logged) { ?><?php echo $text_welcome; ?><?php } else { ?><?php echo $text_logged; ?><?php } ?></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-24 03:32:29 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=information/information&amp;information_id=6
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/Remove-Wishlist-Link-From-Header.xml
+   id        : Remove Wishlist Link From Header
+   version   : 1.0
+   vqmver    : 2.5.0
+   author    : keyz
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <div id="welcome"><?php if (!$logged) { ?><?php echo $text_welcome; ?><?php } else { ?><?php echo $text_logged; ?><?php } ?></div>
+----------------------------------------------------------------------
+
+
