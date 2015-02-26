@@ -231,6 +231,7 @@ $controller->addPreAction(new Action('common/maintenance'));
 
 // SEO URL's
 $controller->addPreAction(new Action('common/seo_url'));	
+//$controller->addPreAction(new Action('common/automatic_seo_url'));	
 	
 // Router
 if (isset($request->get['route'])) {
@@ -266,6 +267,12 @@ if (isset($request->get['route'])) {
 		$action = new Action('error/not_found');
 		break;
 		case 'checkout/cart':
+		$action = new Action('error/not_found');
+		break;
+		case 'account/return':
+		$action = new Action('error/not_found');
+		break;
+		case 'information/sitemap':
 		$action = new Action('error/not_found');
 		break;
 		default:

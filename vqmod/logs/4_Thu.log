@@ -1,0 +1,60 @@
+---------- Date: 2015-02-26 06:41:41 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/hide-cart-button.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+
+File Name    : catalog/view/theme/*/template/module/special.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="cart"><input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button" /></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-26 06:43:19 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/hide-cart-button.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+
+File Name    : catalog/view/theme/*/template/module/special.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="cart"><input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button" /></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-26 06:44:47 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/hide-cart-button.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+
+File Name    : catalog/view/theme/*/template/module/special.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="cart"><input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button" /></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-02-26 06:49:32 ~ IP : ::1 ----------
+REQUEST URI : /~reebonzindonesia/opencart-1.5.6.1/upload/index.php?route=common/home&amp;session_id=q045qgepa097850jag7o4qcrn1
+MOD DETAILS:
+   modFile   : /Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/vqmod/xml/hide-cart-button.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+
+File Name    : catalog/view/theme/*/template/module/special.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="cart"><input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button" /></div>
+
+----------------------------------------------------------------------
+
+

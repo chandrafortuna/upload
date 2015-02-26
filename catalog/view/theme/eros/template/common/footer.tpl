@@ -4,7 +4,7 @@
 </div> 
 
 
-
+<div>
 <div id="footer">
 
 
@@ -59,9 +59,9 @@
     </div><!-- footer-area (end) -->
 
 	
+</div>
 
-
-
+<!--
 
 <div id="footer_bottom">
 <div class="info">
@@ -69,8 +69,9 @@
 
 
 	
-
-  		<div id="powered">Powered by <a class="blue" href="http://www.opencart.com">Open Cart</a><br /><a class="s_main_color" href="http://themeglobal.com">ThemeGlobal.com - OpenCart Templates Club</a></div>
+<div id="powered"><a class="blue" href="http://www.are-shop.netii.net">www.are-shop.netii.net</a><br />
+  		<div id="powered">Powered by <a class="blue" href="http://www.opencart.com">Open Cart</a><br />
+  			<a class="s_main_color" href="http://themeglobal.com">ThemeGlobal.com - OpenCart Templates Club</a></div>
 
  <?php if($this->config->get('tg_eros_paymentimages_status') == '1'): ?>	 	
   	
@@ -173,7 +174,8 @@ scrolltotop.init()
 	
 
 <?php endif; ?> <!-- tg_eros_paymentimages_status (end) -->
+<!--
 </div> <!-- #footer_container (end) -->
+<!--
 </div>  <!-- #footer_bottom (end) -->
-
 

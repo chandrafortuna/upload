@@ -1,4 +1,5 @@
 <?php
+
 // HTTP
 define('HTTP_SERVER', 'http://localhost/~reebonzindonesia/opencart-1.5.6.1/upload/admin/');
 define('HTTP_CATALOG', 'http://localhost/~reebonzindonesia/opencart-1.5.6.1/upload/');
@@ -8,6 +9,7 @@ define('HTTPS_SERVER', 'http://localhost/~reebonzindonesia/opencart-1.5.6.1/uplo
 define('HTTPS_CATALOG', 'http://localhost/~reebonzindonesia/opencart-1.5.6.1/upload/');
 
 // DIR
+define('DIR_DAVID_ROOT', '/Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/');
 define('DIR_APPLICATION', '/Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/admin/');
 define('DIR_SYSTEM', '/Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/system/');
 define('DIR_DATABASE', '/Users/reebonzindonesia/Sites/opencart-1.5.6.1/upload/system/database/');
