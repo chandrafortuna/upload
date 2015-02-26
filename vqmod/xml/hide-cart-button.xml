@@ -24,7 +24,22 @@
                         <add><![CDATA[<div class="compare" style="display: none">]]></add>
                 </operation>
              
-        </file>        
+        </file>    
+        <file name="catalog/view/theme/*/template/product/manufacturer_info.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<div class="cart">]]></search>
+                        <add><![CDATA[<div class="cart" style="display: none">]]></add>
+                </operation>
+                <operation>
+                        <search position="replace"><![CDATA[<div class="wishlist">]]></search>
+                        <add><![CDATA[<div class="wishlist" style="display: none">]]></add>
+                </operation>
+                <operation>
+                        <search position="replace"><![CDATA[<div class="compare">]]></search>
+                        <add><![CDATA[<div class="compare" style="display: none">]]></add>
+                </operation>
+             
+        </file>       
         <file name="catalog/view/theme/*/template/product/search.tpl">
                 <operation>
                         <search position="replace"><![CDATA[<div class="cart">]]></search>
